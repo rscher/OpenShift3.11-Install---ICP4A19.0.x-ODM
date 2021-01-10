@@ -2,7 +2,7 @@
  Install procedure for OCP311 2-node  cluster to Fyre bare metal 
  
  
-Install OpenShift Container Platform, v3.11 (on-premise installation, aka Bare Metal Servers)
+Install OpenShift Container Platform, v3.11 (on-premise installation)
 -------------------------------------------------------------------
 
 https://docs.openshift.com/container-platform/3.11/getting_started/install_openshift.html
